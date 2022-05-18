@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ConverCF-GDD </string>
+    <string name="boton">Convert</string>
+    <string name="tex1">Centigrade to Fahrenheit</string>
+    <string name="tex2">Fahrenheit to Centigrade</string>
+    <string name="usuario">Gemberth Josue Delgado Delgado</string>
+
+</resources>

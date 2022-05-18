@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConverCF-GDD </string>
+    <string name="boton">Convertir</string>
+    <string name="tex1">Centígrados a Fahrenheit</string>
+    <string name="tex2">Fahrenheit a Centígrados</string>
+    <string name="usuario">Gemberth Josue Delgado Delgado</string>
+</resources>
